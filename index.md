@@ -3,6 +3,7 @@
 - git
 	- github blog build
 	- [GitHub](https://hwrbjdsj.github.io/1)
+	- [baidu](https://baidu.com)
 	- git 命令
 - Linux
 - Hadoop
