@@ -4,6 +4,7 @@
 	- github blog build
 	- [GitHub](https://hwrbjdsj.github.io/git/blog)
 	- [baidu](https://baidu.com)
+	- [qqyx](https://mail.qq.com/)
 	- git 命令
 - Linux
 - Hadoop
