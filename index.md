@@ -5,7 +5,7 @@
 	- [GitHub](https://hwrbjdsj.github.io/git/blog)
 	- [baidu](https://baidu.com)
 	- [qqyx](https://mail.qq.com/)
-	- [git笔记](https://hwrbjdsj.github.io/img#)
+	- [git笔记](https://hwrbjdsj.github.io/1.1)
 	- git 命令
 - Linux
 - Hadoop
