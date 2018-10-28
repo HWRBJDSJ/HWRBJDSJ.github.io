@@ -13,10 +13,13 @@
 	- [Linux中的vi编辑器的使用](https://hwrbjdsj.github.io/1.4)
 	- [Linux的基础命令](https://hwrbjdsj.github.io/1.5)
 	- [Linux中的主和组](https://hwrbjdsj.github.io/1.7)
-	- 
-
+	- [sed和awk](https://hwrbjdsj.github.io/1.9)
+	- [shell基础](https://hwrbjdsj.github.io/2.0)
+	- [shell编程](https://hwrbjdsj.github.io/2.1)
 	
 - Hadoop
+	- [hadoop单节点与伪分布](https://hwrbjdsj.github.io/2.2)
+	- [hadoop完全分布](https://hwrbjdsj.github.io/2.3)
 - 常用类
 	- [正则表达式](https://hwrbjdsj.github.io/1.6)
 	- [杂乱:常用工具](https://hwrbjdsj.github.io/1.8)
