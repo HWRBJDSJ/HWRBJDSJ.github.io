@@ -20,6 +20,25 @@
 - Hadoop
 	- [hadoop单节点与伪分布](https://hwrbjdsj.github.io/2.2)
 	- [hadoop完全分布](https://hwrbjdsj.github.io/2.3)
+	
+- HDFS
+	- [HDFS](https://hwrbjdsj.github.io/2.4)
+	- 差一些
+	
+- JAVA中的hadoop操作
+	- [JAVA中的hadoop操作](https://hwrbjdsj.github.io/2.6)
+- MapReduce
+	- [MapReduce概述](https://hwrbjdsj.github.io/2.7)
+	- [MapReduce版的"hello world"](https://hwrbjdsj.github.io/2.8)
+	- [mapreduce示例流量问题](https://hwrbjdsj.github.io/2.9.1)
+	- [mapreduce示例电话分区问题](https://hwrbjdsj.github.io/2.9.2)
+	- [mapreduce示例流量问题](https://hwrbjdsj.github.io/2.9.1)
+- hive
+	- [Hive在Linux上的环境搭建](https://hwrbjdsj.github.io/3.0)
+	- [Hive基础](https://hwrbjdsj.github.io/3.1)
+	- [Hive的JDBC接口命令(1)](https://hwrbjdsj.github.io/3.2)
+	- [Hive的JDBC接口命令(2)](https://hwrbjdsj.github.io/3.3)
+	- [Hive函数](https://hwrbjdsj.github.io/3.4)
 - 常用类
 	- [正则表达式](https://hwrbjdsj.github.io/1.6)
 	- [杂乱:常用工具](https://hwrbjdsj.github.io/1.8)
